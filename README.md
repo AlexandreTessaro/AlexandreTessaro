@@ -1,7 +1,7 @@
 ### Hello World, I'm Alexandre Tessaro, a software engineering student
 
-- 🔭 I'm currently working as a developer SAP ABAP
-- 🌱 I’m currently learning solidity
+- 🔭 I'm currently working as a Data Engineer
+- 🌱 I’m currently exploring AI techniques for natural language processing 
 - ⚡ Interesting fact: I have already participated as the author of two books
 
 <a href="https://github.com/AlexandreTessaro/github-readme-stats">
